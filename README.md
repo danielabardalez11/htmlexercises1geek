@@ -1,8 +1,5 @@
 # htmlexercises1geek
-Its dani doing html exercise 1 from a repo she found on github
-so its perfect for practice
-actually not because it wasnt exercises so chatgpt give me some for me
-
-thanks everyone
-with love
+Its a mini page about dani en html
+It was suppose to be a project about a repo but it doesnt work so i askt chatgpt for give me this exersise
+hope you guys like it!
 dani <3
